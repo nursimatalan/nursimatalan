@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nursimatalan
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Python
+- 📫 How to reach me nursimatalan54@gmail.com
